@@ -1,6 +1,6 @@
 # Inventory_Analysis
 
-**** Project Overview****
+ **Project Overview**
 
 Urban Retail Co. is a growing mid-sized retail chain operating across various regions, offering a diverse range of products. Despite access to a robust data infrastructure, the company was facing persistent inventory inefficiencies: certain products were chronically overstocked, some critical items were frequently understocked, and warehouse-level imbalances were leading to customer dissatisfaction and lost revenue opportunities.
 In this project, I took on the role of a data analyst tasked with diagnosing and addressing these inefficiencies. The solution involved building a comprehensive SQL-based data pipeline to calculate essential KPIs, followed by designing dynamic Power BI dashboards that would help business stakeholders make data-informed decisions. The ultimate goal was to shift Urban Retail Co. from a reactive inventory model to a proactive, analytics-driven strategy.
