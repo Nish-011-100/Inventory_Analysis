@@ -1,4 +1,6 @@
 # Inventory_Analysis
+![image](https://github.com/user-attachments/assets/79b2a910-7f9a-4389-89e2-71d0f1a6a01e)
+
 
  **Project Overview**
 
@@ -15,7 +17,7 @@ By transforming raw sales, inventory, and product movement data into actionable 
 To execute the project effectively, I used SQL (MySQL) for all back-end data processing. This included cleaning and merging multiple datasets, computing custom KPIs like inventory turnover and forecast accuracy, and segmenting products based on performance. The processed data was then visualized using Power BI, which allowed the creation of highly interactive dashboards capable of filtering data by category, region, and time period.
 Python and Excel were also used for preliminary tagging and validating movement classifications. These tools were particularly helpful for determining fast vs. slow-moving products based on turnover benchmarks and average revenue values.
 
-**** Dataset Overview****
+ **Dataset Overview**
 
 The analysis was built upon four key datasets:
 stocklevel regions.csv: Provides product-level inventory figures across different regions.
@@ -39,7 +41,7 @@ In contrast, slow-moving products such as P0070 and P0068 had lower turnover rat
 Another key discovery was the high number of stockouts in stores like S002, S001, and S004. These stores frequently appeared in the low-inventory alerts and required immediate attention to avoid revenue loss due to unfulfilled demand.
 Forecast accuracy was another crucial dimension of the project. The organization’s existing demand forecasts were shown to be accurate on average (~88%), but the analysis revealed that this accuracy dropped in specific product categories and store combinations — highlighting the need for more granular forecasting at the store level.
 
-** Dashboards & Visual Insights**
+ **Dashboard & Visual Insights**
 
 To support decision-making, I designed a series of Power BI dashboards that transformed SQL metrics into business-friendly visuals:
 Units Sold by Quarter and Category: Tracked seasonal trends, showing consistent high sales in Clothing and Groceries.
@@ -56,7 +58,7 @@ Regional Stock Heatmaps: Provided a clear view of overstock and understock acros
 
 These visuals were designed to be interactive, enabling users to slice and drill down by region, product ID, and time period.
 
-**** Business Insights****
+ **Business Insights**
 
 This analysis led to several key insights:
 Overstocking in High-Cost Categories: Electronics and Furniture had substantial excess stock in the North and South regions, suggesting a need for better demand planning or inventory redistribution.
