@@ -1,6 +1,6 @@
 # Inventory_Analysis
 
-** Project Overview**
+**** Project Overview****
 
 Urban Retail Co. is a growing mid-sized retail chain operating across various regions, offering a diverse range of products. Despite access to a robust data infrastructure, the company was facing persistent inventory inefficiencies: certain products were chronically overstocked, some critical items were frequently understocked, and warehouse-level imbalances were leading to customer dissatisfaction and lost revenue opportunities.
 In this project, I took on the role of a data analyst tasked with diagnosing and addressing these inefficiencies. The solution involved building a comprehensive SQL-based data pipeline to calculate essential KPIs, followed by designing dynamic Power BI dashboards that would help business stakeholders make data-informed decisions. The ultimate goal was to shift Urban Retail Co. from a reactive inventory model to a proactive, analytics-driven strategy.
@@ -15,7 +15,7 @@ By transforming raw sales, inventory, and product movement data into actionable 
 To execute the project effectively, I used SQL (MySQL) for all back-end data processing. This included cleaning and merging multiple datasets, computing custom KPIs like inventory turnover and forecast accuracy, and segmenting products based on performance. The processed data was then visualized using Power BI, which allowed the creation of highly interactive dashboards capable of filtering data by category, region, and time period.
 Python and Excel were also used for preliminary tagging and validating movement classifications. These tools were particularly helpful for determining fast vs. slow-moving products based on turnover benchmarks and average revenue values.
 
-** Dataset Overview**
+**** Dataset Overview****
 
 The analysis was built upon four key datasets:
 stocklevel regions.csv: Provides product-level inventory figures across different regions.
@@ -56,7 +56,7 @@ Regional Stock Heatmaps: Provided a clear view of overstock and understock acros
 
 These visuals were designed to be interactive, enabling users to slice and drill down by region, product ID, and time period.
 
-** Business Insights**
+**** Business Insights****
 
 This analysis led to several key insights:
 Overstocking in High-Cost Categories: Electronics and Furniture had substantial excess stock in the North and South regions, suggesting a need for better demand planning or inventory redistribution.
