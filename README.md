@@ -34,6 +34,9 @@ low inventory regions.csv: Flags historical incidents of stockouts by region, da
 
 These datasets were merged and processed to create a comprehensive view of inventory health across the organization.
 
+![Relational_Schema](https://github.com/user-attachments/assets/7b7f3c4d-a7c2-4bde-b122-1358f9da359b)
+
+
  **Key Metrics and Findings**
  
 One of the central metrics used in this analysis was the Inventory Turnover Ratio, which represents how efficiently a product is being sold and replenished over a period. The average turnover across all products was approximately 1210.02, with fast-moving items like P0046, P0133, and P0057 performing significantly above this benchmark. These products also contributed the highest revenues, each averaging over ₹10 million.
