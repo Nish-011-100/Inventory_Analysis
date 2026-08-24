@@ -14,7 +14,7 @@ By transforming raw sales, inventory, and product movement data into actionable 
 
  **Tools & Technologies**
  
-To execute the project effectively, I used SQL (MySQL) for all back-end data processing. This included cleaning and merging multiple datasets, computing custom KPIs like inventory turnover and forecast accuracy, and segmenting products based on performance. The processed data was then visualized using Power BI, which allowed the creation of highly interactive dashboards capable of filtering data by category, region, and time period.
+To execute the project effectively, We used SQL (MySQL) for all back-end data processing. This included cleaning and merging multiple datasets, computing custom KPIs like inventory turnover and forecast accuracy, and segmenting products based on performance. The processed data was then visualized using Power BI, which allowed the creation of highly interactive dashboards capable of filtering data by category, region, and time period.
 Python and Excel were also used for preliminary tagging and validating movement classifications. These tools were particularly helpful for determining fast vs. slow-moving products based on turnover benchmarks and average revenue values.
 
  **Dataset Overview**
